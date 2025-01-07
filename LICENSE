@@ -1,21 +1,133 @@
-MIT License
+GDM Software License – Version 1.0
 
-Copyright (c) 2025 Giovane de Morais
+Copyright © 2025 Giovane de Morais
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Contact:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+giovanedms@gmail.com / giovane.de.morais@outlook.com
++5519971716971
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The GDM License (“License”) governs the use of the software (“Software”) and is granted by Giovane de Morais (“Author”) to any individual or entity (“Licensee”) who wishes to use, modify, or distribute the Software, subject to the following terms and conditions:
+
+1. Maintenance of Open Source
+1.1. Open Source Requirement
+The Software must remain open source in all its forms and versions. Any modification, adaptation, or derivative of the Software must also be licensed under this same License.
+
+1.2. Relevant Modification
+A “relevant modification” is defined as any and all changes to the Software, regardless of size or scope, except for trivial formatting corrections. Any modification that affects functionality, performance, or security shall be considered relevant.
+
+1.3. Publication of Modifications
+All modifications or derivatives must be published in a publicly accessible repository authorized by the Author and the community, no later than fifteen (15) days after the modification is completed or put into production.
+
+1.4. Auditing System
+An auditing system may be implemented to verify compliance with these open-source requirements. The Author reserves the right to audit repositories where the Software is maintained or used.
+
+2. Commercial Use and Royalties
+2.1. Commercial Use
+Commercial use of the Software is permitted only upon obtaining a commercial license directly from the Author. Any commercial use without a formal contract constitutes a violation of this License.
+
+2.2. License Agreement
+The Licensee must contact the Author to negotiate the terms of a commercial licensing agreement. Failure to establish a formal contract prior to engaging in commercial activities is a breach of this License.
+
+2.3. Definition of Commercial Use
+Commercial use includes, but is not limited to, any utilization that yields direct or indirect financial benefit (e.g., integration into paid products, corporate settings aimed at profit, or revenue-generating distributions).
+
+2.4. Audits
+The Author reserves the right to conduct periodic audits, with prior notice, to verify compliance with commercial licensing terms. Refusal to cooperate may result in immediate License revocation and further legal action.
+
+3. Attribution
+3.1. Credit to the Author
+The Author must be credited as the original creator of the Software in any form of use, distribution, presentation, or documentation of the Software.
+
+3.2. Visibility of Attribution
+The attribution must be clearly displayed in:
+
+ - The header of the source code
+ - The project documentation
+ - Any user interface where the Software is utilized (e.g., splash screens, “About” dialogs)
+
+3.3. Attribution Details
+The attribution must include the Author’s name (“Giovane de Morais”), the creation year (2025), and a link (if applicable) to the official repository or relevant project page.
+
+4. License Compatibility
+4.1. Explicit Compatibility
+This License permits integration with projects licensed under GPL, Apache 2.0, and MIT only. Any integration with other licenses requires the Author’s prior written consent.
+
+4.2. Conflict of Terms
+In the event of a conflict between this License and any other license, the terms of this License shall prevail.
+
+4.3. Preservation of Requirements
+Integration with permitted licenses must preserve the open-source and attribution requirements herein.
+
+5. Patents
+5.1. Author’s Patent Rights
+The Author reserves the right to patent the Software or any innovations contained therein.
+
+5.2. Permitted Use of Patents
+This License grants permission to use any patents associated with the Software exclusively within the context of this License. Any partial or complete extraction of such patented technology for use outside this License is strictly prohibited without the Author’s explicit consent.
+
+5.3. Proprietary Projects
+Usage of any portion of the Software in proprietary or otherwise non-compliant projects requires a separate patent license from the Author.
+
+6. Limitation of Liability
+6.1. As-Is Basis
+The Software is provided “as is,” without warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+6.2. Scope of Liability
+This limitation of liability applies to the fullest extent allowed by the laws of the jurisdiction specified in this License. If any portion of this clause is deemed invalid in a particular jurisdiction, the remaining provisions remain in full force and effect.
+
+6.3. Disclaimer of Damages
+In no event shall the Author be liable for direct, indirect, incidental, special, or consequential damages arising from the use or inability to use the Software, even if advised of the possibility of such damages.
+
+7. Termination and Revocation
+7.1. Automatic Revocation
+Failure to comply with any term of this License results in the automatic revocation of the Licensee’s rights.
+
+7.2. Notice and Cure Period
+The Licensee shall receive a formal notice detailing the violation and be granted thirty (30) days to appeal or correct it, starting from the date the notice is sent to the Licensee’s registered contact.
+
+7.3. Post-Revocation
+In the event of revocation, the Licensee must immediately cease using the Software and remove all copies or dependencies. Revocation does not exempt the Licensee from liability for any past breach.
+
+8. License Amendments
+8.1. Right to Update
+The Author reserves the right to amend or update this License at any time. Such amendments are not retroactive.
+
+8.2. Future Releases
+Amended versions shall be published in the Software’s official repository and apply exclusively to future releases. Previous releases remain governed by the License in effect at the time of their release.
+
+8.3. Acceptance of New Terms
+Continuing to use or distribute future versions of the Software after new terms are published constitutes acceptance of the updated License. If the Licensee does not agree with the updated License, they must cease using future releases.
+
+9. Governing Law and Jurisdiction
+9.1. Applicable Law
+This License shall be governed by and construed in accordance with the laws of [Specify Jurisdiction].
+
+9.2. Exclusive Forum
+Any disputes arising from or related to this License shall be resolved exclusively in the courts of [Specify Venue].
+
+9.3. Cross-Border Enforcement
+Notwithstanding the above, the Author reserves the right to pursue legal action in the infringer’s jurisdiction if deemed necessary.
+
+10. Distribution and Registration
+10.1. Authorized Repositories
+Distribution of the Software is only valid if carried out through repositories authorized by the Author. Any distribution outside authorized repositories must receive explicit written approval from the Author.
+
+10.2. Commercial Registration
+For commercial usage, the Licensee must register with the Author’s authentication system and obtain a valid license key or certificate. Any commercial deployment without such registration is a violation of this License.
+
+10.3. Proof of Authorization
+A valid distribution must include proof of authorization (e.g., a digital signature by the Author or a valid license key). The absence or falsification of such proof automatically invalidates the use or redistribution.
+
+11. Contact Information
+For inquiries, commercial licensing, or further information, please reach out to:
+
+Name: Giovane de Morais
+Email: giovanedms@gmail.com / giovane.de.morais@outlook.com
+Telephone: +5519971716971
+
+12. Final Considerations
+This License aims to protect the open-source nature of the Software, ensure proper attribution, regulate commercial use, and safeguard the Author’s rights, including potential patents.
+Should any provision be deemed unenforceable under certain laws, all remaining terms remain effective.
+By using, modifying, or distributing the Software, you acknowledge you have read and agreed to all terms of this License.
+Version 1.0 – 2025
